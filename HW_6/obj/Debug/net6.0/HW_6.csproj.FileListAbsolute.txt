@@ -1,0 +1,15 @@
+/Users/gumenukpavel/Desktop/HW_6/HW_6/bin/Debug/net6.0/HW_6
+/Users/gumenukpavel/Desktop/HW_6/HW_6/bin/Debug/net6.0/HW_6.deps.json
+/Users/gumenukpavel/Desktop/HW_6/HW_6/bin/Debug/net6.0/HW_6.runtimeconfig.json
+/Users/gumenukpavel/Desktop/HW_6/HW_6/bin/Debug/net6.0/HW_6.dll
+/Users/gumenukpavel/Desktop/HW_6/HW_6/bin/Debug/net6.0/HW_6.pdb
+/Users/gumenukpavel/Desktop/HW_6/HW_6/obj/Debug/net6.0/HW_6.csproj.AssemblyReference.cache
+/Users/gumenukpavel/Desktop/HW_6/HW_6/obj/Debug/net6.0/HW_6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gumenukpavel/Desktop/HW_6/HW_6/obj/Debug/net6.0/HW_6.AssemblyInfoInputs.cache
+/Users/gumenukpavel/Desktop/HW_6/HW_6/obj/Debug/net6.0/HW_6.AssemblyInfo.cs
+/Users/gumenukpavel/Desktop/HW_6/HW_6/obj/Debug/net6.0/HW_6.csproj.CoreCompileInputs.cache
+/Users/gumenukpavel/Desktop/HW_6/HW_6/obj/Debug/net6.0/HW_6.dll
+/Users/gumenukpavel/Desktop/HW_6/HW_6/obj/Debug/net6.0/refint/HW_6.dll
+/Users/gumenukpavel/Desktop/HW_6/HW_6/obj/Debug/net6.0/HW_6.pdb
+/Users/gumenukpavel/Desktop/HW_6/HW_6/obj/Debug/net6.0/HW_6.genruntimeconfig.cache
+/Users/gumenukpavel/Desktop/HW_6/HW_6/obj/Debug/net6.0/ref/HW_6.dll
